@@ -13,7 +13,7 @@ I am a Software Development student based in Rio de Janeiro, Brazil, building a 
 
 ## Featured project
 
-### [Brazilian Representatives' Asset Tracker](https://github.com/barathoom/raio-x-patrimonial)
+### [Brazilian Representatives' Asset Tracker](https://github.com/araujovito/raio-x-patrimonial)
 
 A data project that analyzes the declared assets and electoral histories of Brazil's 513 federal representatives using official data from the Superior Electoral Court (TSE).
 
@@ -38,7 +38,7 @@ The project explores:
 ## Languages
 
 - Portuguese — Native
-- English — Basic
+- English — Professional working proficiency
 - Spanish — Basic
 - German — Basic
 
